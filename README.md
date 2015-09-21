@@ -29,9 +29,14 @@ I also enjoy tabletop gaming.  Some board games I enjoy are, in no particular or
 3. Spent some time reading the various links about homework on the homework page
 4. Read up on markdown in a variety of places
 
+### Things I think about Markdown
+* It is very useful to be able to toss R code into the main line of the script
+* Doing word processing equivilent (like this README) seems less eficient than something designed for the purpose (No spell check, not WISIWIG, )
 
-###Update Log (maybe these should be the comments to pushes?  But then how do I keep track before the commit?  Maybe cut and paste from here to there)
+####Update Log (maybe these should be the comments to pushes?  But then how do I keep track before the commit?  Maybe cut and paste from here to there)
 
 2015/18/09 1430hrs.  I've pulled the README.md file from the public repo PrepPrivateStat545a on GitHub to my personal computer.
 
 2015/18/09 1620hrs.  Back to work.  I pushed up to Git when I finished  and went off to do some other wrk. I pulled down as a habit forming gesture even though I know it should be all the same.  I look into links and some Formatting and add a bit more content.
+
+2015/20/09 1400hrs.  I set up the prep project in my home tower by starting a new project in RStudio and then doing version control to the public github repo. Thats about it really, I had to head off afterwards.
