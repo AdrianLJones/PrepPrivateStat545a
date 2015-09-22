@@ -42,12 +42,14 @@ I also enjoy tabletop gaming.  Some board games I enjoy are, in no particular or
 2015/20/09 1400hrs.  I set up the prep project in my home tower by starting a new project in RStudio and then doing version control to the public github repo. Thats about it really, I had to head off afterwards.
 
 2015/21/09 1705 hrs.  Okay trying to clone this to the actual private repo.  Back on the laptop  Trying to do some shell stuff.  So far I've cloned this stuff to another folder with the 
-
-> clone 
-
-command, which seemed to work
+```
+clone 
+```
+ command, which seemed to work
 Then tried to make it think the origin was
-> https://github.com/STAT545-UBC/adrian_jones.git
+```
+ https://github.com/STAT545-UBC/adrian_jones.git
+```
 
 but it thought there was a fatal error because something already existed.  I should have logged those errors on paper.
 Now I've got it cloned (on the laptop) and there was no error with the setting of the origin, but the project in RStudio doesn't seem to have anything to commit to, other than stuff on this computer.  I think I'll try again at home, and try setting the home computer to the master or whatever like the option 5b in the git handshake section.
